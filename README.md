@@ -2,7 +2,7 @@
 
 > AI/ML Engineer | Model Development | Computer Vision
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/vineethcm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/vineethcmps)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:vineethcmps@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Bengaluru-green)](https://www.google.com/maps/place/Bengaluru)
 
